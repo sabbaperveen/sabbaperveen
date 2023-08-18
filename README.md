@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saba Perveen</h1>
 <h3 align="center">A passionate Cyber Security Student.</h3>
 
-<img align="right" alt="coding" width="300" src="https://giphy.com/gifs/lets-go-cyber-on-a7jCRzDW5TH7vsIbYD">
+<img align="right" alt="coding" width="300" src="https://github.com/sabbaperveen/sabbaperveen/assets/99995240/d0e4cf81-c6e8-4f13-8dab-8ef9583dd7c7">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbaperveen&label=Profile%20views&color=0e75b6&style=flat" alt="sabbaperveen" /> </p>
 
 - 🔭 I’m currently working on **YOUTUBE-OSINT Project.**
