@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cyber Security Student.</h3>
 
 
-<img align="right" alt="coding" width="300" src="https://giphy.com/gifs/lets-go-cyber-on-a7jCRzDW5TH7vsIbYD">
+<img align="right" alt="coding" width="300" src="![image](https://github.com/sabbaperveen/sabbaperveen/assets/99995240/83e5e034-cd00-42eb-8b4a-7ade3039bd0e)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbaperveen&label=Profile%20views&color=0e75b6&style=flat" alt="sabbaperveen" /> </p>
 
 - 🔭 I’m currently working on **YOUTUBE-OSINT Project.**
