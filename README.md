@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cyber Security Student.</h3>
 
 
-<img align="right" alt="coding" width="300" src="https://www.pinterest.com/pin/435371489113801011](https://www.pinterest.com/pin/934637728897980349">
+<img align="right" alt="coding" width="300" src="https://www.pinterest.com/pin/934637728897980349/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbaperveen&label=Profile%20views&color=0e75b6&style=flat" alt="sabbaperveen" /> </p>
 
 - 🔭 I’m currently working on **YOUTUBE-OSINT Project.**
