@@ -1,4 +1,4 @@
-![image](https://github.com/sabbaperveen/sabbaperveen/assets/99995240/9a803656-5996-4196-ada2-28d462c9c390)<h1 align="center">Hi 👋, I'm Saba Perveen</h1>
+<h1 align="center">Hi 👋, I'm Saba Perveen</h1>
 <h3 align="center">A passionate Cyber Security Student.</h3>
 
 
