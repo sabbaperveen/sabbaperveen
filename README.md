@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **YOUTUBE-OSINT Project.**
 
-- 📫 How to reach me **sabap2002@gmail.com**
+- 📫 How to reach me **sabba.perveen12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
