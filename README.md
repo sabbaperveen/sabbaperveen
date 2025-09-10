@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SIEM Projects**
 
-- 📫 How to reach me **sabba.perveen12@gmail.com**
+- 📫 Reach me at **sabba.perveen12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
