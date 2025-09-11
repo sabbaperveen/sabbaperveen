@@ -15,23 +15,23 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
   </a> 
 
   <!-- Cybersecurity & SIEM Tools -->
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Splunk_logo.svg" alt="splunk" width="80" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Splunk-Logo.png" alt="splunk" width="80" height="40"/> 
   </a> 
   <a href="https://www.ibm.com/qradar" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=512&id=117561&format=png" alt="qradar" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/452/ibm.png" alt="qradar" width="40" height="40"/> 
   </a> 
   <a href="https://wazuh.com/" target="_blank" rel="noreferrer"> 
     <img src="https://wazuh.com/uploads/2021/02/wazuh_logo_icon_blue.svg" alt="wazuh" width="40" height="40"/> 
@@ -43,10 +43,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> 
   </a> 
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/2018-06/Nessus-Icon.svg" alt="nessus" width="40" height="40"/> 
+    <img src="https://www.tenable.com/sites/all/themes/tenablefourteen/logo.svg" alt="nessus" width="80" height="40"/> 
   </a> 
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
     <img src="https://portswigger.net/content/images/logos/burp-suite.svg" alt="burpsuite" width="40" height="40"/> 
   </a> 
+</p>
+
+
 </p>
 
