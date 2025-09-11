@@ -13,6 +13,7 @@
 <a href="https://twitter.com/sabba_perveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabba_perveen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saba-perveen-a17a59243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saba perveen" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Languages -->
@@ -26,29 +27,30 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
   </a> 
 
-  <!-- Cybersecurity & SIEM Tools -->
+  <!-- Cybersecurity Tools -->
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Splunk-Logo.png" alt="splunk" width="80" height="40"/> 
+    <img src="https://companieslogo.com/img/orig/SPLK-4f758ee6.png" alt="splunk" width="80" height="40"/> 
   </a> 
   <a href="https://www.ibm.com/qradar" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/452/ibm.png" alt="qradar" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-ibm-11-461787.png" alt="qradar" width="40" height="40"/> 
   </a> 
   <a href="https://wazuh.com/" target="_blank" rel="noreferrer"> 
     <img src="https://wazuh.com/uploads/2021/02/wazuh_logo_icon_blue.svg" alt="wazuh" width="40" height="40"/> 
   </a> 
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> 
+    <img src="https://nmap.org/images/sitelogo-nmap.svg" alt="nmap" width="70" height="40"/> 
   </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Wireshark_Logo.png" alt="wireshark" width="60" height="40"/> 
   </a> 
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tenable.com/sites/all/themes/tenablefourteen/logo.svg" alt="nessus" width="80" height="40"/> 
+    <img src="https://seeklogo.com/images/N/nessus-logo-A0C312AAD8-seeklogo.com.png" alt="nessus" width="60" height="40"/> 
   </a> 
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
     <img src="https://portswigger.net/content/images/logos/burp-suite.svg" alt="burpsuite" width="40" height="40"/> 
   </a> 
 </p>
+
 
 
 </p>
